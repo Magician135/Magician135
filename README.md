@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Magician135/Magician135/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Magician135/Magician135/output/snake.svg" alt="Snake animation](https://images.app.goo.gl/AEhCtKRAezNju6Ws9)" />
 
 ###
 

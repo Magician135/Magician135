@@ -1,4 +1,3 @@
-[![Masterhead](https://www.deviantart.com/pixeljeff/art/Coding-990517671)]
 <h1 align="center">👋 Hi, I'm Shivam singh</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Curious Data Analyst</h3>
 

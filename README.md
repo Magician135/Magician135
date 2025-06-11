@@ -22,12 +22,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
-
-<br clear="both">
-
-<img src="[https://raw.githubusercontent.com/Magician135/Magician135/output/snake.svg" alt="Snake animation](https://images.app.goo.gl/AEhCtKRAezNju6Ws9)" />
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

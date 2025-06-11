@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm Shivam singh</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Curious Data Analyst</h3>
 
+<img align="right" alt="coding" width="400" src="https://jp.pinterest.com/pin/826621706645120829/">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@shivam_singh135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shivam_singh135" height="30" width="40" /></a>

@@ -19,6 +19,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Magician135&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Magician135&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/Magician135/Magician135/output/snake.svg" alt="Snake animation" />
 
 
 ### ✍️ Random Dev Quote

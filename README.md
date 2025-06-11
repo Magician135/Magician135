@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shivam singh</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Curious Data Analyst</h3>
 
-<img align="right" alt="coding" width="400" src="[https://jp.pinterest.com/pin/826621706645120829/](https://www.behance.net/gallery/161921919/Portrait-animated-gif)">
+<img align="right" alt="coding" width="400" src="[[https://jp.pinterest.com/pin/826621706645120829/](https://www.behance.net/gallery/161921919/Portrait-animated-gif)](https://tenor.com/view/developer-gif-2461104302247665708)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

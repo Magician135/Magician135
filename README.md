@@ -22,5 +22,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magician135&show_icons=true&locale=en&layout=compact" alt="magician135" /></p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

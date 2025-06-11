@@ -1,19 +1,8 @@
-<h1 align="center">Hello folks myself SHIVAM SINGH; a curious, creative and collaborative dude</h1>
-<h3 align="center">Final year student @NIT Durgapur ECE'26</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Curious Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magician135&label=Profile%20views&color=0e75b6&style=flat" alt="magician135" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@shivam_singh135" target="blank"><img src="https://img.shields.io/twitter/follow/@shivam_singh135?logo=twitter&style=for-the-badge" alt="@shivam_singh135" /></a> </p>
-
-- 🌱 I’m currently pursuing my Bachelors Degree from **NIT Durgapur from ECE Branch.**
-
-- 📝 Hobbies [Playing Chess, Watching Podcasts, Reading Books, and Listening Music](Playing Chess, Watching Podcasts, Reading Books, and Listening Music)
-
-- 📫 Mail me at **ss.22u10922@btech.nitdgp.ac.in**
-
-- 📄 my experiences [Completed my training in BSNL](Completed my training in BSNL)
-
-- ⚡ Just follow the saying **Don't Stop Believe'in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

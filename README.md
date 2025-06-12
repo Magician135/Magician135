@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Shivam singh</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Curious Data Analyst</h3>
-<br>
-<br>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-
+<br>
+<br>
+<br>
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>

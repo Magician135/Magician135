@@ -12,10 +12,7 @@
 <a href="https://twitter.com/@shivam_singh135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shivam_singh135" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivamsingh135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamsingh135" height="30" width="40" /></a>
 <a href="https://instagram.com/shivam.singh_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam.singh_ss" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sharp_seed_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sharp_seed_63" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shivam_singh_135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivam_singh_135" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/magikcian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="magikcian" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/magician_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="magician_codes" height="30" width="40" /></a>
+
 </p>
 
 
